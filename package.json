@@ -1,0 +1,30 @@
+{
+  "name": "messaging-app",
+  "version": "1.0.0",
+  "description": "A messaging app for WDI-SF-45",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaltonHart/WDI45-Messaging-App-.git"
+  },
+  "keywords": [
+    "messaging",
+    "wdi",
+    "general",
+    "assembly"
+  ],
+  "author": "Dalton Hart (daltonvaren@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaltonHart/WDI45-Messaging-App-/issues"
+  },
+  "homepage": "https://github.com/DaltonHart/WDI45-Messaging-App-#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "socket.io": "^2.1.1"
+  }
+}
